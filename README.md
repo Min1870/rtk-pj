@@ -16,7 +16,7 @@
 
 ### Links
 
-- Live Site URL: [Deploy on nelify](https://dashing-sawine-25edf3.netlify.app/)
+- Live Site URL: [Deploy on netlify](https://shiny-daffodil-1a9248.netlify.app/)
 
 ## My process
 
